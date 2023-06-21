@@ -20,7 +20,9 @@
 <a href="https://github.com/BINOD-XD"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-### NOTICE  : PAID TOOL
+<p align="center">
+<a href="#"><img title="PAID TOOL" src="https://img.shields.io/badge/PAID TOOL-%23000000?&sstyle=for-the-badge"></a>
+
 <p align="center"><img src="https://github.com/BINOD-XD/Facebook-2FA-ADDER/blob/main/header_.gif">
 
 ## ABOUT TOOL :
@@ -134,6 +136,6 @@ __CONTACT ADMIN__ :
 
 # Acknowledgements
 ## Special Thanks <span style='font-size:45px;'>&#128071;</span>
-<a href="#"><img title="REYAD X SHIPU" src="https://img.shields.io/badge/REYAD X SHIPU-SCRIPTgray?style=for-the-badge"></a>
+<a href="#"><img title="REYAD X SHIPU" src="https://img.shields.io/badge/REYAD X SHIPU-%23000000.svg?&sstyle=for-the-badge"></a>
 
 ## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
