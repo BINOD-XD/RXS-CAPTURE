@@ -19,6 +19,10 @@
 <a href="https://github.com/BINOD-XD"><img title="Watching" src="https://img.shields.io/github/watchers/BINOD-XD/RXS-CAPTURE?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/BINOD-XD"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
+<p align="center">
+<a href="https://github.com/BINOD-XD"><img title="Issues" src="https://img.shields.io/github/issues/BINOD-XD/RXS-CAPTURE?color=red&style=flat-square"></a>
+</p>
+
 
 <p align="center">
 <a href="#"><img title="PAID TOOL" src="https://img.shields.io/badge/PAID TOOL-%23000000?&sstyle=for-the-badge"></a>
@@ -31,8 +35,7 @@ It's RXS Capture Tool, You Can Capture Others Cloning Tool Method & Data By Usin
 This Tool Isn't Free. So, You Need To By This Tool From Our Admin.
 
 ## AVAILABLE ON :
-
-* Termux
+<a href="https://termux.dev/en"><img title="Termux" src="https://img.shields.io/badge/Termux-black?style=for-the-badge&logo=termux"></a>
 
 ### TESTED ON :
 
