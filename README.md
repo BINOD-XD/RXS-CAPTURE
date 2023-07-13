@@ -26,7 +26,7 @@
 
 
 <p align="center">
-<a href="#"><img title="PAID TOOL" src="https://img.shields.io/badge/PAID TOOL-%23000000?&sstyle=for-the-badge"></a>
+<a href="#"><img title="Tool Type" src="https://img.shields.io/badge/Tool%20Type-Paid-1f425f.svg?v=103"></a>
 
 <p align="center"><img src="https://github.com/BINOD-XD/Facebook-2FA-ADDER/blob/main/header_.gif">
 
