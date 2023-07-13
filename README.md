@@ -21,7 +21,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/BINOD-XD"><img title="Issues" src="https://img.shields.io/github/issues/BINOD-XD/RXS-CAPTURE?color=red&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBINOD-XD%2FIp-Tracker&count_bg=%231277A6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBINOD-XD%2FRXS-CAPTURE&count_bg=%231277A6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </p>
 
 
